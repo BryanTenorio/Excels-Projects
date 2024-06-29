@@ -19,11 +19,23 @@ En este proyecto se abordan problemas comunes de limpieza de datos y se proporci
 - Arreglar Porcentajes y Precios
 - Quitar Filas con Espacios Vacíos
 
-![] (images-limpieza-datos/Limpieza1c1.png)
+### Aqui va el primer cuadro de excel
+![](images-limpieza-datos/Limpieza1c1.png)
 
-
+### Aqui va el segundo cuadro de excel
+![](images-limpieza-datos/limpieza1c2.png)
 
 ### Reto de separar Nombres y Apellidos
+-
+-
+-
+
+### Aqui va el tercer cuadro de excel
+![](images-limpieza-datos/limpieza2c1.png)
+
+### Aqui va el cuarto cuadro de excel
+![](images-limpieza-datos/Limpieza2c2.png)
+
 
 ## 2. Dashboard Coleccionista de Tenis
 Descripción: Dashboard interactivo creado en Excel para analizar las ventas y colecciones de tenis.
