@@ -19,7 +19,7 @@ En este proyecto se abordan problemas comunes de limpieza de datos y se proporci
 - Arreglar Porcentajes y Precios
 - Quitar Filas con Espacios Vacíos
 
-!	[Primera imagen de archivo de Excel](/assets/images-limpieza-datos/Limpieza1c1.png)
+![] (images-limpieza-datos/Limpieza1c1.png)
 
 
 
