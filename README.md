@@ -19,6 +19,10 @@ En este proyecto se abordan problemas comunes de limpieza de datos y se proporci
 - Arreglar Porcentajes y Precios
 - Quitar Filas con Espacios Vacíos
 
+!	[Primera imagen de archivo de Excel](/assets/images-limpieza-datos/Limpieza de datos 1c1.png)
+
+
+
 ### Reto de separar Nombres y Apellidos
 
 ## 2. Dashboard Coleccionista de Tenis
