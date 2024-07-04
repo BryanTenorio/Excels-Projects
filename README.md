@@ -77,7 +77,57 @@ Este dashboard permite identificar cuáles son los modelos más rentables y popu
 
 
 ## 3. Dashboard Ventas de Bicicletas
-Descripción: Análisis de ventas de bicicletas utilizando tablas dinámicas y gráficos en Excel.
+
+### Descripción del Proyecto
+En este proyecto, se analiza un conjunto de datos de ventas de bicicletas para identificar patrones y tendencias en las decisiones de compra de bicicletas. Se realizó la limpieza y organización de los datos y se crearon tablas dinámicas para obtener insights valiosos.
+
+### Columnas Iniciales del Dataset
+- `ID`
+- `Marital Status`
+- `Gender`
+- `Income`
+- `Children`
+- `Education`
+- `Occupation`
+- `Home Owner`
+- `Cars`
+- `Commute Distance`
+- `Region`
+- `Age`
+- `Purchased Bike`
+
+### Columnas Después de la Limpieza y Organización
+- `ID`
+- `Estado Civil`
+- `Género`
+- `Ingresos`
+- `Hijos`
+- `Educación`
+- `Occupación`
+- `Propietario de Vivienda`
+- `Autos`
+- `Distancia de Viaje`
+- `Región`
+- `Edad`
+- `Rango de Edad`
+- `Compra de Bicicleta`
+
+### Análisis Realizado con Tablas Dinámicas
+
+1. **Ingreso Promedio por Decisión de Compra de Bicicleta**:
+   - Análisis del ingreso promedio de los clientes en función de si compraron o no una bicicleta.
+   - ![Ingreso Promedio por Decisión de Compra de Bicicleta](ruta/a/la/imagen/avg_income_per_bike_purchase.png)
+
+2. **Distancia de Viaje por Decisión de Compra de Bicicleta**:
+   - Análisis de la distancia de viaje promedio de los clientes en función de si compraron o no una bicicleta.
+   - ![Distancia de Viaje por Decisión de Compra de Bicicleta](ruta/a/la/imagen/commute_distance_per_bike_purchase.png)
+
+3. **Rango de Edad por Decisión de Compra de Bicicleta**:
+   - Análisis de la distribución de los clientes en diferentes rangos de edad en función de si compraron o no una bicicleta.
+   - ![Rango de Edad por Decisión de Compra de Bicicleta](ruta/a/la/imagen/age_bracket_per_bike_purchase.png)
+
+### Conclusiones
+El análisis realizado proporciona insights sobre cómo factores como el ingreso, la distancia de viaje y la edad influyen en la decisión de compra de bicicletas. Estos insights pueden ser útiles para dirigir las estrategias de marketing y ventas de una empresa de bicicletas.
 
 
 ## Sobre el Autor
