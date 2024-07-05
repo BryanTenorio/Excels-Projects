@@ -52,10 +52,22 @@ En este proyecto se crea un dashboard interactivo para un coleccionista de tenis
 - **Diferencial en Dólares por Modelo**: Comparación del diferencial en dólares entre los modelos de zapatos.
 - **Diferencial en Porcentaje por Modelo**: Análisis del diferencial porcentual entre los modelos.
 - **Ventas por Marca**: Visualización de la cantidad de ventas por cada marca.
-- **Ventas por Marca en Porcentaje**: Porcentaje de ventas de cada marca respecto al total.
+- **Estados con mayor % de diferencia**: Porcentaje de ventas de cada estado representado en porcentaje.
 
-### Ejemplo de Análisis
+### Diferencial de precio a lo largo del tiempo
 ![Diferencial de Precio a lo Largo del Tiempo](images-tenis/Diferencial-precio-largo-tiempo2.png)
+
+### Diferencial en dolares por modelo
+![Diferencial de Precio a lo Largo del Tiempo](images-tenis/diferencial-usd-modelo.png)
+
+### Diferencial en porcentaje por modelo
+![Diferencial de Precio a lo Largo del Tiempo](images-tenis/diferencial-porcentaje-modelo.png)
+
+### Ventas por marca
+![Diferencial de Precio a lo Largo del Tiempo](images-tenis/ventas-marcar.png)
+
+### Estados con mayor porcentaje de diferencia
+![Diferencial de Precio a lo Largo del Tiempo](images-tenis/estados-porcentaje-diferencial.png)
 
 [Ver archivo completo](https://github.com/BryanTenorio/Excels-Projects/blob/4f3ae4121c73b607cbdb224fa3513f92fc1d031b/Coleccionista%20Tenis.xlsx)
 
