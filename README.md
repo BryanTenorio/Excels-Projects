@@ -36,7 +36,7 @@ En este proyecto se abordan problemas comunes de limpieza de datos y se proporci
 ### Aqui va el cuarto cuadro de excel
 ![](images-limpieza-datos/Limpieza2c2.png)
 
-[Ver archivo completo](https://github.com/BryanTenorio/Excels-Projects/blob/d23545712b8ba7c90def3eae3ae6e18992c75c46/Limpieza%20de%20datos%20-%20Portfolio.xlsx)
+[Ver archivo completo](https://github.com/BryanTenorio/Excels-Projects/blob/4f3ae4121c73b607cbdb224fa3513f92fc1d031b/Limpieza%20Datos.xlsx)
 
 ## 2. Dashboard Coleccionista de Tenis
 En este proyecto se crea un dashboard interactivo para un coleccionista de tenis, visualizando datos de ventas, tendencias y análisis de inventario.
@@ -59,7 +59,7 @@ En este proyecto se crea un dashboard interactivo para un coleccionista de tenis
 ### Ejemplo de Análisis
 ![Diferencial de Precio a lo Largo del Tiempo](images-tenis/Diferencial-precio-largo-tiempo.png)
 
-[Ver archivo completo](https://github.com/BryanTenorio/Excels-Projects/blob/d23545712b8ba7c90def3eae3ae6e18992c75c46/Dashboard%20coleccionista%20tenis%20-%20Portfolio.xlsx)
+[Ver archivo completo](https://github.com/BryanTenorio/Excels-Projects/blob/4f3ae4121c73b607cbdb224fa3513f92fc1d031b/Coleccionista%20Tenis.xlsx)
 
 ### Conclusiones
 Este dashboard permite identificar cuáles son los modelos más rentables y populares, y ofrece insights sobre cuándo es más rentable vender cada modelo de zapato.
@@ -93,6 +93,7 @@ En este proyecto, se analiza un conjunto de datos de ventas de bicicletas para i
 ### Conclusiones
 El análisis realizado proporciona insights sobre cómo factores como el ingreso, la distancia de viaje y la edad influyen en la decisión de compra de bicicletas. Estos insights pueden ser útiles para dirigir las estrategias de marketing y ventas de una empresa de bicicletas.
 
+[Ver archivo completo](https://github.com/BryanTenorio/Excels-Projects/blob/4f3ae4121c73b607cbdb224fa3513f92fc1d031b/Venta%20Bicicletas.xlsx)
 
 ## Sobre el Autor
 Mi nombre es Jhon Tenorio y este repositorio es parte de mi portafolio como Analista de Datos. Aquí presento mis habilidades en Excel para la limpieza de datos, creación de dashboards y análisis de ventas. Para ver más proyectos y mi progreso en el análisis de datos, visita mi [perfil de GitHub](https://github.com/BryanTenorio).
