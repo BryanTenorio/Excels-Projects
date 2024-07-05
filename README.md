@@ -47,18 +47,7 @@ En este proyecto se crea un dashboard interactivo para un coleccionista de tenis
   - `Order Date`, `Brand`, `Sneaker Name`, `Sale Price`, `Retail Price`, `Release Date`, `Shoe Size`, `Buyer Region`.
 
 ### Columnas Después de la Limpieza de Datos
-- `Fecha de Compra`
-- `Marca`
-- `Precio de Venta Real`
-- `Precio Sugerido`
-- `Fecha de Lanzamiento`
-- `Talla Zapato`
-- `Región de Compra`
-- `% Diferencial`
-- `Marca2`
-- `Modelo`
-- `Color`
-- `Diferencial en Dlls`
+  - `Fecha de Compra`, `Marca`, `Precio de Venta Real`, `Precio Sugerido`, `Fecha de Lanzamiento`, `Talla Zapato`, `Región de Compra`, `% Diferencial`, `Marca2`, `Modelo`, `Color`, `Diferencial en Dlls`
 
 ### Análisis Realizado con Tablas Dinámicas
 - **Diferencial de Precio a lo Largo del Tiempo**: Análisis de cómo varía el precio de venta respecto al precio sugerido con el tiempo.
@@ -82,35 +71,10 @@ Este dashboard permite identificar cuáles son los modelos más rentables y popu
 En este proyecto, se analiza un conjunto de datos de ventas de bicicletas para identificar patrones y tendencias en las decisiones de compra de bicicletas. Se realizó la limpieza y organización de los datos y se crearon tablas dinámicas para obtener insights valiosos.
 
 ### Columnas Iniciales del Dataset
-- `ID`
-- `Marital Status`
-- `Gender`
-- `Income`
-- `Children`
-- `Education`
-- `Occupation`
-- `Home Owner`
-- `Cars`
-- `Commute Distance`
-- `Region`
-- `Age`
-- `Purchased Bike`
+  - `ID`, `Marital Status`, `Gender`, `Income`, `Children`, `Education`, `Occupation`, `Home Owner`, `Cars`, `Commute Distance`, `Region`, `Age`, `Purchased Bike`
 
 ### Columnas Después de la Limpieza y Organización
-- `ID`
-- `Estado Civil`
-- `Género`
-- `Ingresos`
-- `Hijos`
-- `Educación`
-- `Occupación`
-- `Propietario de Vivienda`
-- `Autos`
-- `Distancia de Viaje`
-- `Región`
-- `Edad`
-- `Rango de Edad`
-- `Compra de Bicicleta`
+  - `ID`, `Estado Civil`, `Género`, `Ingresos`, `Hijos`, `Educación`, `Occupación`, `Propietario de Vivienda`, `Autos`, `Distancia de Viaje`, `Región`, `Edad`, `Rango de Edad`, `Compra de Bicicleta`
 
 ### Análisis Realizado con Tablas Dinámicas
 
