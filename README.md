@@ -19,21 +19,19 @@ En este proyecto se abordan problemas comunes de limpieza de datos y se proporci
 - Arreglar Porcentajes y Precios
 - Quitar Filas con Espacios Vacíos
 
-### Aqui va el primer cuadro de excel
+### Cuadro de Excel con los desafios sin resolver
 ![](images-limpieza-datos/Limpieza1c1.png)
 
-### Aqui va el segundo cuadro de excel
+### Cuadro de Excel con cada uno de los desafios resueltos
 ![](images-limpieza-datos/limpieza1c2.png)
 
 ### Reto de separar Nombres y Apellidos
--
--
--
+En el mismo proyecto pero diferentes hoja se nos presenta un Reto, en el cual consiste en Separar el nombre de los apellidos
 
-### Aqui va el tercer cuadro de excel
+### Cuadro de excel mostrando el Reto a realizar
 ![](images-limpieza-datos/limpieza2c1.png)
 
-### Aqui va el cuarto cuadro de excel
+### Cuadro de excel con sus respectivas columnas con el nombre por una parte y los apellidos por otra.
 ![](images-limpieza-datos/Limpieza2c2.png)
 
 [Ver archivo completo](https://github.com/BryanTenorio/Excels-Projects/blob/4f3ae4121c73b607cbdb224fa3513f92fc1d031b/Limpieza%20Datos.xlsx)
