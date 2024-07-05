@@ -4,8 +4,8 @@ Este repositorio contiene varios proyectos de análisis de datos realizados en E
 
 ## Tabla de Contenidos
 1. [Limpieza de Datos](#limpieza-de-datos)
-2. [Dashboard Coleccionista de Tenis](#dashboard-coleccionista-de-tenis)
-3. [Project Bike Sales](#project-bike-sales)
+2. [Coleccionista de Tenis](#dashboard-coleccionista-de-tenis)
+3. [Venta de Bicicletas](#project-bike-sales)
 
 ## 1. Limpieza de Datos
 En este proyecto se abordan problemas comunes de limpieza de datos y se proporcionan soluciones utilizando funciones y herramientas de Excel.
@@ -38,7 +38,7 @@ En este proyecto se abordan problemas comunes de limpieza de datos y se proporci
 
 [Ver archivo completo](https://github.com/BryanTenorio/Excels-Projects/blob/4f3ae4121c73b607cbdb224fa3513f92fc1d031b/Limpieza%20Datos.xlsx)
 
-## 2. Dashboard Coleccionista de Tenis
+## 2. Coleccionista de Tenis
 En este proyecto se crea un dashboard interactivo para un coleccionista de tenis, visualizando datos de ventas, tendencias y análisis de inventario.
 
 ### Acerca del Dataset
@@ -57,7 +57,7 @@ En este proyecto se crea un dashboard interactivo para un coleccionista de tenis
 - **Ventas por Marca en Porcentaje**: Porcentaje de ventas de cada marca respecto al total.
 
 ### Ejemplo de Análisis
-![Diferencial de Precio a lo Largo del Tiempo](images-tenis/Diferencial-precio-largo-tiempo.png)
+![Diferencial de Precio a lo Largo del Tiempo](images-tenis/Diferencial-precio-largo-tiempo2.png)
 
 [Ver archivo completo](https://github.com/BryanTenorio/Excels-Projects/blob/4f3ae4121c73b607cbdb224fa3513f92fc1d031b/Coleccionista%20Tenis.xlsx)
 
@@ -65,7 +65,7 @@ En este proyecto se crea un dashboard interactivo para un coleccionista de tenis
 Este dashboard permite identificar cuáles son los modelos más rentables y populares, y ofrece insights sobre cuándo es más rentable vender cada modelo de zapato.
 
 
-## 3. Dashboard Ventas de Bicicletas
+## 3. Venta de Bicicletas
 
 ### Descripción del Proyecto
 En este proyecto, se analiza un conjunto de datos de ventas de bicicletas para identificar patrones y tendencias en las decisiones de compra de bicicletas. Se realizó la limpieza y organización de los datos y se crearon tablas dinámicas para obtener insights valiosos.
