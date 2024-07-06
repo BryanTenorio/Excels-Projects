@@ -69,6 +69,9 @@ En este proyecto se crea un dashboard interactivo para un coleccionista de tenis
 ### Estados con mayor porcentaje de diferencia
 ![Diferencial de Precio a lo Largo del Tiempo](images-tenis/estados-porcentaje-diferencial.png)
 
+### Dashboard
+![Dashboard de coleccionista de tenis](images-tenis/dashboard-tenis.png)
+
 [Ver archivo completo](https://github.com/BryanTenorio/Excels-Projects/blob/4f3ae4121c73b607cbdb224fa3513f92fc1d031b/Coleccionista%20Tenis.xlsx)
 
 ### Conclusiones
