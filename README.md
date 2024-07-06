@@ -91,17 +91,19 @@ En este proyecto, se analiza un conjunto de datos de ventas de bicicletas para i
 
 ### Análisis Realizado con Tablas Dinámicas
 
-1. **Ingreso Promedio por Decisión de Compra de Bicicleta**:
+- **Ingreso Promedio por Decisión de Compra de Bicicleta**:
    - Análisis del ingreso promedio de los clientes en función de si compraron o no una bicicleta.
    - ![Ingreso Promedio por Decisión de Compra de Bicicleta](ruta/a/la/imagen/avg_income_per_bike_purchase.png)
 
-2. **Distancia de Viaje por Decisión de Compra de Bicicleta**:
+- **Distancia de Viaje por Decisión de Compra de Bicicleta**:
    - Análisis de la distancia de viaje promedio de los clientes en función de si compraron o no una bicicleta.
    - ![Distancia de Viaje por Decisión de Compra de Bicicleta](ruta/a/la/imagen/commute_distance_per_bike_purchase.png)
 
-3. **Rango de Edad por Decisión de Compra de Bicicleta**:
+- **Rango de Edad por Decisión de Compra de Bicicleta**:
    - Análisis de la distribución de los clientes en diferentes rangos de edad en función de si compraron o no una bicicleta.
    - ![Rango de Edad por Decisión de Compra de Bicicleta](ruta/a/la/imagen/age_bracket_per_bike_purchase.png)
+ 
+### Dashboard
 
 ### Conclusiones
 El análisis realizado proporciona insights sobre cómo factores como el ingreso, la distancia de viaje y la edad influyen en la decisión de compra de bicicletas. Estos insights pueden ser útiles para dirigir las estrategias de marketing y ventas de una empresa de bicicletas.
