@@ -104,7 +104,7 @@ En este proyecto, se analiza un conjunto de datos de ventas de bicicletas para i
 ![Rango de Edad por Decisión de Compra de Bicicleta](images-bicicletas/rango-edad-decision-compra.png)
 
 ### Dashboard
-![Dashboard venta de bicicletas](images-tenis/dashboard-bici.png)
+![Dashboard venta de bicicletas](images-bicicletas/dashboard-bici.png)
 
 ### Conclusiones
 El análisis realizado proporciona insights sobre cómo factores como el ingreso, la distancia de viaje y la edad influyen en la decisión de compra de bicicletas. Estos insights pueden ser útiles para dirigir las estrategias de marketing y ventas de una empresa de bicicletas.
